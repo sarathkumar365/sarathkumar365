@@ -3,6 +3,8 @@
 
 ![image](https://github.com/sarathkumar365/sarathkumar365/blob/main/b1%20(1).jpg)
 
+<p align="left"> <a href="https://twitter.com/sarath_kumar_ks" target="blank"><img src="https://img.shields.io/twitter/follow/sarath_kumar_ks?logo=twitter&style=for-the-badge" alt="sarath_kumar_ks" /></a> </p>
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarathkumar365](https://github.com/sarathkumar365)
@@ -13,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sarath_kumar_ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarath_kumar_ks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarath-kumar-ks-744042182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarath-kumar-ks-744042182/" height="30" width="40" /></a>
+<a href="https://discord.gg/alchemist#7591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alchemist#7591" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
