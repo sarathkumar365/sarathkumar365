@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sarath kumar ks</h1>
+<h1 align="center">Hi there 👋, I'm sarath kumar ks</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 ![](https://github.com/sarathkumar365/sarathkumar365/blob/main/cropped.jpg)
