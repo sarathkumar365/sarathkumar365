@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm sarath kumar ks</h1>
 <h3 align="center">A passionate web developer from India</h3>
-![Design and Development].(https://github.com/sarathkumar365/sarathkumar365/blob/main/b1.jpg)
+
+(https://github.com/sarathkumar365/sarathkumar365/blob/main/b1.jpg)
 
 - 🌱 I’m currently learning **React**
 
