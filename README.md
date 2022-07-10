@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm sarath kumar ks</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
- file:///home/sarath/Downloads/anime.mp4
- 
- ![](https://github.com/sarathkumar365/sarathkumar365/blob/main/gif.gif)
-
 ![image](https://github.com/sarathkumar365/sarathkumar365/blob/main/b1%20(1).jpg)
 
 <p align="left"> <a href="https://twitter.com/sarath_kumar_ks" target="blank"><img src="https://img.shields.io/twitter/follow/sarath_kumar_ks?logo=twitter&style=for-the-badge" alt="sarath_kumar_ks" /></a> </p>
