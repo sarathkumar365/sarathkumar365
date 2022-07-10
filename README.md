@@ -2,6 +2,8 @@
 <h3 align="center">A passionate web developer from India</h3>
 
  file:///home/sarath/Downloads/anime.mp4
+ 
+ ![](https://github.com/sarathkumar365/sarathkumar365/blob/main/gif.gif)
 
 ![image](https://github.com/sarathkumar365/sarathkumar365/blob/main/b1%20(1).jpg)
 
