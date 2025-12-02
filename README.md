@@ -50,6 +50,7 @@ I enjoy designing systems end-to-end, shipping fast, and solving complex problem
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/><br/>React</td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/><br/>TypeScript</td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/><br/>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48"/><br/>Java</td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/><br/>PostgreSQL</td>
 <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40"/><br/>Docker</td>
 </tr>
