@@ -21,80 +21,95 @@ I enjoy working in **fast-paced, product-driven environments**, solving hard pro
 * ⚡  Daily user of **ChatGPT, Cursor, and Copilot** for refactoring, tests, and AI-driven productivity
 * 🚀  Passionate about **AI-powered automation, scalable UI systems, resilient microservice patterns**
 
+### **Skills**
 
-### Skills
+<div align="center">
+
+#### **Languages**
 
 <table>
   <tr>
-    <th>Languages</th>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" /><br/>JavaScript<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="32" /><br/>TypeScript<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" /><br/>Python<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="32" /><br/>Java
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" /><br/>React<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="32" /><br/>Next.js<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="32" /><br/>Bootstrap<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="32" /><br/>jQuery
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" /><br/>Node.js<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="32" /><br/>Express<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="32" /><br/>FastAPI<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="32" /><br/>Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="32" /><br/>PostgreSQL<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="32" /><br/>MongoDB<br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="32" /><br/>Prisma
-    </td>
-  </tr>
-
-  <tr>
-    <th>Cloud / DevOps</th>
-    <th>AI / Automation</th>
-    <th>Tools</th>
-    <th>Security</th>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" /><br/>Docker<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="32" /><br/>AWS<br/><br/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="32" /><br/>Azure<br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="32" /><br/>Jenkins
-    </td>
-
-```
-<td align="center">
-  <img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/ai/openai.svg" width="32" /><br/>OpenAI<br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" /><br/>PyTorch<br/><br/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="32" /><br/>n8n
-</td>
-
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" /><br/>Git<br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" /><br/>GitHub<br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32" /><br/>Postman<br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" /><br/>VS Code
-</td>
-
-<td align="center">
-  <img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/security/jwt.svg" width="32" /><br/>JWT<br/><br/>
-  <img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/security/oauth.svg" width="32" /><br/>OAuth<br/><br/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="32" /><br/>CORS
-</td>
-```
-
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48"/><br/>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48"/><br/>TypeScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48"/><br/>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48"/><br/>Java</td>
   </tr>
 </table>
+
+#### **Frontend**
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48"/><br/>React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48"/><br/>Next.js</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="48"/><br/>jQuery</td>
+  </tr>
+</table>
+
+#### **Backend**
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48"/><br/>Node.js</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48"/><br/>Express</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="48"/><br/>FastAPI</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="48"/><br/>Spring Boot</td>
+  </tr>
+</table>
+
+#### **Databases**
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48"/><br/>MongoDB</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="48"/><br/>Prisma</td>
+  </tr>
+</table>
+
+#### **Cloud & DevOps**
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48"/><br/>Docker</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48"/><br/>AWS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="48"/><br/>Azure</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48"/><br/>Jenkins</td>
+  </tr>
+</table>
+
+#### **AI / Automation**
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/ai/openai.svg" width="48"/><br/>OpenAI</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48"/><br/>PyTorch</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48"/><br/>n8n</td>
+  </tr>
+</table>
+
+#### **Tools**
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/><br/>Git</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48"/><br/>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48"/><br/>Postman</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/><br/>VS Code</td>
+  </tr>
+</table>
+
+#### **Security**
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/security/jwt.svg" width="48"/><br/>JWT</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/security/oauth.svg" width="48"/><br/>OAuth</td>
+  </tr>
+</table>
+
+</div>
 
 
 ### Socials
