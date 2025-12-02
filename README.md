@@ -1,121 +1,70 @@
+Here is a **clean, sharp, shorter version** of your GitHub README — still professional, still impactful, but faster to read and perfect for recruiters who skim.
+
+---
+
 # Hi 👋 My name is Sarath Kumar
 
-## AI-Native Full Stack Engineer
+### AI-Native Full Stack Engineer
 
-Full Stack Engineer experienced in **building scalable web applications, intelligent UIs, and AI-driven workflows**.
-Strong foundation in **JavaScript, React, and TypeScript**, backed by backend experience in **Python (FastAPI)** and **Java (Spring Boot)**.
+I build **AI-powered, scalable full-stack applications** with a strong focus on **intelligent UIs, schema-driven systems, and rapid prototyping**.
+My core stack: **React, TypeScript, Node.js, FastAPI, Spring Boot, PostgreSQL, Prisma, Docker**.
 
-I specialize in:
+I enjoy designing systems end-to-end, shipping fast, and solving complex problems with clean architecture.
 
-* **Rapid prototyping** of complex UI/data features
-* **AI integrations**, including LLM-powered dashboards and real-time chatbot streaming (SSE)
-* **Microservices concepts, Docker-based deployments, and CI/CD automation**
-* **Schema-driven architectures** and robust data modeling (Prisma, SQL, JSON Schema, DSL design)
+---
 
-I enjoy working in **fast-paced, product-driven environments**, solving hard problems, and shipping clean, scalable solutions.
+## 🚀 Highlights
 
-* 🌍  Based in Toronto, Canada
-* ✉️  Reach me at **[Sarathkumarks.dev@gmail.com](mailto:Sarathkumarks.dev@gmail.com)**
-* 🛠️  Built **FormSpec**, a schema-driven form engine compiling JSON schema + DSL → SQL
-* 📄  Building **RealEstateFlow** — a workflow automation platform with OCR + AI
-* ⚡  Daily user of **ChatGPT, Cursor, and Copilot** for refactoring, tests, and AI-driven productivity
-* 🚀  Passionate about **AI-powered automation, scalable UI systems, resilient microservice patterns**
+* Built **FormSpec** MVP in **< 1 week** — schema-driven forms + DSL → SQL engine
+* Increased D3.js dashboard retention by **22%** with rendering optimizations
+* Created **real-time SSE AI chatbot** integrating OpenAI + Java backend
+* Built OCR pipelines using **PaddleOCR + FastAPI**
+* Designed a **metric DSL** for KPIs over PostgreSQL JSONB
 
-### **Skills**
+---
+
+## 🔭 Current Work
+
+* **RealEstateFlow** — AI + OCR workflow automation platform
+* Enhancing FormSpec schema DSL & data modeling
+* Experimenting with AI agents and real-time reasoning
+
+---
+
+## 🧩 Tech Snapshot
+
+**Frontend:** React, Next.js, TypeScript
+**Backend:** Node.js, Express, FastAPI, Spring Boot
+**AI/Automation:** OpenAI, SSE, PaddleOCR, n8n
+**Databases:** PostgreSQL, Prisma ORM, MongoDB
+**DevOps:** Docker, GitHub Actions, Jenkins
+
+---
+
+## 🛠️ Skills
 
 <div align="center">
 
-#### **Languages**
-
 <table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48"/><br/>JavaScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48"/><br/>TypeScript</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48"/><br/>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48"/><br/>Java</td>
-  </tr>
-</table>
-
-#### **Frontend**
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48"/><br/>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48"/><br/>Next.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48"/><br/>Bootstrap</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="48"/><br/>jQuery</td>
-  </tr>
-</table>
-
-#### **Backend**
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48"/><br/>Node.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48"/><br/>Express</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="48"/><br/>FastAPI</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="48"/><br/>Spring Boot</td>
-  </tr>
-</table>
-
-#### **Databases**
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48"/><br/>MongoDB</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="48"/><br/>Prisma</td>
-  </tr>
-</table>
-
-#### **Cloud & DevOps**
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48"/><br/>Docker</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48"/><br/>AWS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="48"/><br/>Azure</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48"/><br/>Jenkins</td>
-  </tr>
-</table>
-
-#### **AI / Automation**
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/ai/openai.svg" width="48"/><br/>OpenAI</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48"/><br/>PyTorch</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48"/><br/>n8n</td>
-  </tr>
-</table>
-
-#### **Tools**
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/><br/>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48"/><br/>GitHub</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48"/><br/>Postman</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48"/><br/>VS Code</td>
-  </tr>
-</table>
-
-#### **Security**
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/security/jwt.svg" width="48"/><br/>JWT</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/deeppunkhub/icons/main/security/oauth.svg" width="48"/><br/>OAuth</td>
-  </tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/><br/>React</td>
+<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/><br/>TypeScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/><br/>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40"/><br/>Docker</td>
+</tr>
 </table>
 
 </div>
 
+---
 
-### Socials
+## 🔗 Connect
 
-<p align="left">
-<a href="https://www.github.com/sarathkumar365" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/sarath-kumar-ks/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+<a href="https://github.com/sarathkumar365"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28"/></a> <a href="https://linkedin.com/in/sarath-kumar-ks"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28"/></a>
 
+📩 **[Sarathkumarks.dev@gmail.com](mailto:Sarathkumarks.dev@gmail.com)**
+
+---
+
+If you want, I can generate a **minimal**, **dark**, or **badge-only** version as well.
