@@ -1,7 +1,3 @@
-Here is a **clean, sharp, shorter version** of your GitHub README — still professional, still impactful, but faster to read and perfect for recruiters who skim.
-
----
-
 # Hi 👋 My name is Sarath Kumar
 
 ### AI-Native Full Stack Engineer
@@ -65,7 +61,3 @@ I enjoy designing systems end-to-end, shipping fast, and solving complex problem
 <a href="https://github.com/sarathkumar365"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28"/></a> <a href="https://linkedin.com/in/sarath-kumar-ks"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28"/></a>
 
 📩 **[Sarathkumarks.dev@gmail.com](mailto:Sarathkumarks.dev@gmail.com)**
-
----
-
-If you want, I can generate a **minimal**, **dark**, or **badge-only** version as well.
