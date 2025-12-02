@@ -17,15 +17,12 @@ I enjoy designing systems end-to-end, shipping fast, and solving complex problem
 * Built OCR pipelines using **PaddleOCR + FastAPI**
 * Designed a **metric DSL** for KPIs over PostgreSQL JSONB
 
----
+## 🔭 Current Projects
 
-## 🔭 Current Work
-
-* **RealEstateFlow** — AI + OCR workflow automation platform
-* Enhancing FormSpec schema DSL & data modeling
-* Experimenting with AI agents and real-time reasoning
-
----
+* **RealEstateFlow** — Full-stack AI + OCR workflow automation platform  
+  * Building scalable form generation using **FormSpec** schema DSL and runtime execution  
+  * Extracting structured data from documents (IDs, leases) with **PaddleOCR**  
+  * Experimenting with AI agents and real-time reasoning for workflow automation  
 
 ## 🧩 Tech Snapshot
 
